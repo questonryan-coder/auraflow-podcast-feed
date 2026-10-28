@@ -8,13 +8,14 @@
     <link>https://auraflowfocus.com</link>
     <language>en</language>
     <copyright>© 2026 AuraFlow</copyright>
-    <description>Original soundscapes for sleep, focus &amp; calm — composed fresh for every session, never a loop. A new hour daily.
+    <description>Original soundscapes for sleep, focus &amp; calm — composed fresh for every session, never a loop. New episodes every week.
 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.
 🌐 auraflowfocus.com
 📺 YouTube: @AuraFlowSleep — youtube.com/@AuraFlowSleep
 📌 Pinterest: pinterest.com/auraflowfocus
 🛍️ Merch: auraflowfocus-shop.fourthwall.com
 💼 LinkedIn: linkedin.com/company/auraflowfocus
+👥 Facebook Group: facebook.com/groups/2187306908663017
 🛍️ Own the soundscapes: The Haunted Sessions (all 7 one-hour sessions, $29) + the free Sleep Starter Pack — https://qstnryan.gumroad.com/l/tmhxjo</description>
     <atom:link href="https://questonryan-coder.github.io/auraflow-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AuraFlow</itunes:author>
@@ -27,6 +28,17 @@ AuraFlow soundscapes are original audio generated with AI/synthesis tools, compo
       <itunes:category text="Mental Health"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Welcome to AuraFlow — Trailer</title>
+      <description>Welcome to AuraFlow — soundscapes for sleep, focus, and calm, composed fresh for every session, never a loop. New episodes every week: a sleep story on Sundays and a full hour of ambience midweek. Listen free at auraflowfocus.com. AuraFlow Pro — $9/month or $79/year, with a 7-day free trial on the monthly plan. Join the AuraFlow Sleep and Focus Community: https://www.facebook.com/groups/2187306908663017. AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
+      <enclosure url="https://questonryan-coder.github.io/auraflow-podcast-feed/trailer.mp3" length="1558645" type="audio/mpeg"/>
+      <guid isPermaLink="false">auraflow-trailer</guid>
+      <pubDate>Wed, 28 Oct 2026 08:13:30 GMT</pubDate>
+      <itunes:duration>97</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://questonryan-coder.github.io/auraflow-podcast-feed/cover.png"/>
+    </item>
     <item>
       <title>The Lantern Keeper of Midnight Forest 🌲 A Sleep Story</title>
       <description>An original AuraFlow sleep story, narrated over the Midnight Forest soundscape. Walk with Elian, keeper of one hundred lanterns, on his nightly round — past the Grove of Paper Moths and the Listening Stream, through the Thirteen Hollows, to the Still Pool where the forest goes to rest. A complete, calming story with a gentle ending — no cliffhanger. Part of the 13 Nights of Haunting. More stories and soundscapes: auraflowfocus.com AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
