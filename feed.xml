@@ -4,20 +4,20 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>AuraFlow — Soundscapes for Sleep, Focus &amp; Calm</title>
+    <title>AuraFlow — Soundscapes for Sleep, Focus &amp; Study</title>
     <link>https://auraflowfocus.com</link>
     <language>en</language>
     <copyright>© 2026 AuraFlow</copyright>
-    <description>Original sound worlds for sleep, focus &amp; study — composed fresh for every session, never a loop. New episodes every week.
-More from Queston: my digital systems &amp; tools at https://qstnryan.gumroad.com — Notion systems at https://observant-hickory-b02.notion.site/Creator-Content-Machine-OS-40857fec5d8b80aa9c49fd65694cc220 — YouTube: https://www.youtube.com/@AuraFlowSleep — listen live: https://auraflowfocus.com
-AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.
+    <description>Original sound worlds for sleep, focus &amp; study — composed fresh for every session, never a loop. New episodes every week: a full hour of ambience midweek and a narrated sleep story on Sundays.
+🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, study), new mixes daily. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com
 🌐 auraflowfocus.com
+👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017
 📺 YouTube: @AuraFlowSleep — youtube.com/@AuraFlowSleep
 📌 Pinterest: pinterest.com/auraflowfocus
 🛍️ Merch: auraflowfocus-shop.fourthwall.com
 💼 LinkedIn: linkedin.com/company/auraflowfocus
-👥 Facebook Group: facebook.com/groups/2187306908663017
-🛍️ Own the sound worlds: the free Sleep Starter Pack — https://qstnryan.gumroad.com/l/nvpnjm</description>
+🛍️ Own the sound worlds: the free Sleep Starter Pack — https://qstnryan.gumroad.com/l/nvpnjm
+AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
     <atom:link href="https://questonryan-coder.github.io/auraflow-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AuraFlow</itunes:author>
     <itunes:owner>
@@ -27,6 +27,9 @@ AuraFlow soundscapes are original audio generated with AI/synthesis tools, compo
     <itunes:image href="https://questonryan-coder.github.io/auraflow-podcast-feed/cover.png"/>
     <itunes:category text="Health &amp; Fitness">
       <itunes:category text="Mental Health"/>
+    </itunes:category>
+    <itunes:category text="Education">
+      <itunes:category text="Self-Improvement"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
@@ -112,7 +115,7 @@ AuraFlow soundscapes are original audio generated with AI/synthesis tools, compo
     </item>
     <item>
       <title>Rolling Thunderstorm Sounds for Sleeping — One Hour</title>
-      <description>A rolling thunderstorm over dark fields — heavy rain falling steady while thunder moves far across open land and fades back into the downpour, again and again under one long storm. An original AuraFlow soundscape, composed fresh for this session — never a loop. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, calm), new mixes daily, and downloads. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
+      <description>A rolling thunderstorm over dark fields — heavy rain falling steady while thunder moves far across open land and fades back into the downpour, again and again under one long storm. An original AuraFlow soundscape, composed fresh for this session — never a loop. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, study), new mixes daily. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
       <enclosure url="https://questonryan-coder.github.io/auraflow-podcast-feed/ep012-rolling-thunderstorm.mp3" length="57600813" type="audio/mpeg"/>
       <guid isPermaLink="false">auraflow-ep012-rolling-thunderstorm</guid>
       <pubDate>Wed, 09 Dec 2026 06:00:00 GMT</pubDate>
@@ -122,7 +125,7 @@ AuraFlow soundscapes are original audio generated with AI/synthesis tools, compo
     </item>
     <item>
       <title>Harvest Cabin Sounds for Sleeping — One Hour</title>
-      <description>Inside a harvest cabin at night — a fire settling into the hearth, a kettle humming low, and wind moving through the eaves over the woodpile outside. Warm crackle and quiet room tone hold steady for the full hour. An original AuraFlow soundscape, composed fresh for this session — never a loop. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, calm), new mixes daily, and downloads. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
+      <description>Inside a harvest cabin at night — a fire settling into the hearth, a kettle humming low, and wind moving through the eaves over the woodpile outside. Warm crackle and quiet room tone hold steady for the full hour. An original AuraFlow soundscape, composed fresh for this session — never a loop. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, study), new mixes daily. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
       <enclosure url="https://questonryan-coder.github.io/auraflow-podcast-feed/ep011-harvest-cabin.mp3" length="57600813" type="audio/mpeg"/>
       <guid isPermaLink="false">auraflow-ep011-harvest-cabin</guid>
       <pubDate>Wed, 02 Dec 2026 06:00:00 GMT</pubDate>
@@ -132,7 +135,7 @@ AuraFlow soundscapes are original audio generated with AI/synthesis tools, compo
     </item>
     <item>
       <title>Mountain Stream Sounds for Sleeping — One Hour</title>
-      <description>Clear mountain water running steadily over smooth stones — a bright, shallow stream tumbling through shaded bends, soft splashes over rock shelves, and a calm, even wash that holds for the full hour. An original AuraFlow soundscape, composed fresh for this session — never a loop. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, calm), new mixes daily, and downloads. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
+      <description>Clear mountain water running steadily over smooth stones — a bright, shallow stream tumbling through shaded bends, soft splashes over rock shelves, and a calm, even wash that holds for the full hour. An original AuraFlow soundscape, composed fresh for this session — never a loop. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, study), new mixes daily. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
       <enclosure url="https://questonryan-coder.github.io/auraflow-podcast-feed/ep010-mountain-stream.mp3" length="57600813" type="audio/mpeg"/>
       <guid isPermaLink="false">auraflow-ep010-mountain-stream</guid>
       <pubDate>Wed, 25 Nov 2026 06:00:00 GMT</pubDate>
@@ -142,7 +145,7 @@ AuraFlow soundscapes are original audio generated with AI/synthesis tools, compo
     </item>
     <item>
       <title>The Fernlight Garden 🌲 A Sleep Story</title>
-      <description>In a clearing deep in the old forest, gardener Tilda tends the Fernlight Garden, where the ferns glow softly at dusk and dim themselves to sleep as the night deepens. Sit on the silvered bench as the light fades frond by frond and the spores drift up through the dark. A complete, calming sleep story with a gentle ending — no cliffhanger. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, calm), new mixes daily, and downloads. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
+      <description>In a clearing deep in the old forest, gardener Tilda tends the Fernlight Garden, where the ferns glow softly at dusk and dim themselves to sleep as the night deepens. Sit on the silvered bench as the light fades frond by frond and the spores drift up through the dark. A complete, calming sleep story with a gentle ending — no cliffhanger. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, study), new mixes daily. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
       <enclosure url="https://questonryan-coder.github.io/auraflow-podcast-feed/ep009-fernlight-garden.mp3" length="13648951" type="audio/mpeg"/>
       <guid isPermaLink="false">auraflow-ep009-fernlight-garden</guid>
       <pubDate>Sun, 29 Nov 2026 06:00:00 GMT</pubDate>
@@ -152,7 +155,7 @@ AuraFlow soundscapes are original audio generated with AI/synthesis tools, compo
     </item>
     <item>
       <title>The Tide Bells of Greywater 🔔 A Sleep Story</title>
-      <description>At the harbour of Greywater, keeper Iona rings the tide bells from the Bellhouse on the Long Arm as evening settles over the boats. Join boatwright Callum on the warm harbour stone as the bells mark the long rest and the day is declared over. A complete, calming sleep story with a gentle ending — no cliffhanger. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, calm), new mixes daily, and downloads. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
+      <description>At the harbour of Greywater, keeper Iona rings the tide bells from the Bellhouse on the Long Arm as evening settles over the boats. Join boatwright Callum on the warm harbour stone as the bells mark the long rest and the day is declared over. A complete, calming sleep story with a gentle ending — no cliffhanger. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, study), new mixes daily. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
       <enclosure url="https://questonryan-coder.github.io/auraflow-podcast-feed/ep008-tide-bells-greywater.mp3" length="13745081" type="audio/mpeg"/>
       <guid isPermaLink="false">auraflow-ep008-tide-bells-greywater</guid>
       <pubDate>Sun, 22 Nov 2026 06:00:00 GMT</pubDate>
@@ -162,7 +165,7 @@ AuraFlow soundscapes are original audio generated with AI/synthesis tools, compo
     </item>
     <item>
       <title>The Snowfall Archive ❄️ A Sleep Story</title>
-      <description>In a village library that stays open late, librarian Mila keeps an archive of the first snowflake of every winter, sealed in glass and filed in felt-lined drawers. When Tomas places this year's flake on the small table, the quietest room in the world teaches him to slow down. A complete, calming sleep story with a gentle ending — no cliffhanger. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, calm), new mixes daily, and downloads. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
+      <description>In a village library that stays open late, librarian Mila keeps an archive of the first snowflake of every winter, sealed in glass and filed in felt-lined drawers. When Tomas places this year's flake on the small table, the quietest room in the world teaches him to slow down. A complete, calming sleep story with a gentle ending — no cliffhanger. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, study), new mixes daily. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
       <enclosure url="https://questonryan-coder.github.io/auraflow-podcast-feed/ep007-snowfall-archive.mp3" length="12369160" type="audio/mpeg"/>
       <guid isPermaLink="false">auraflow-ep007-snowfall-archive</guid>
       <pubDate>Sun, 15 Nov 2026 06:00:00 GMT</pubDate>
@@ -172,7 +175,7 @@ AuraFlow soundscapes are original audio generated with AI/synthesis tools, compo
     </item>
     <item>
       <title>The Night Train to Ember Hollow 🚂 A Sleep Story</title>
-      <description>Ride the Silver Lark night train with conductor Mira from tiny Tarnwick Halt, through moonlit valleys and along the river, all the way to the Ember Hollow Inn. A complete, calming sleep story with a gentle ending — no cliffhanger. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, calm), new mixes daily, and downloads. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
+      <description>Ride the Silver Lark night train with conductor Mira from tiny Tarnwick Halt, through moonlit valleys and along the river, all the way to the Ember Hollow Inn. A complete, calming sleep story with a gentle ending — no cliffhanger. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, study), new mixes daily. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
       <enclosure url="https://questonryan-coder.github.io/auraflow-podcast-feed/ep006-night-train-ember-hollow.mp3" length="13073003" type="audio/mpeg"/>
       <guid isPermaLink="false">auraflow-ep006-night-train-ember-hollow</guid>
       <pubDate>Sun, 08 Nov 2026 06:00:00 GMT</pubDate>
@@ -182,7 +185,7 @@ AuraFlow soundscapes are original audio generated with AI/synthesis tools, compo
     </item>
     <item>
       <title>Crackling Fireplace Sounds for Sleeping — One Hour</title>
-      <description>A stone fireplace at night — embers crackling and shifting over the hearth, the low breathing of the coals, and occasional pops and whispers of flame against split wood. An original AuraFlow soundscape, composed fresh for this session — never a loop. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, calm), new mixes daily, and downloads. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
+      <description>A stone fireplace at night — embers crackling and shifting over the hearth, the low breathing of the coals, and occasional pops and whispers of flame against split wood. An original AuraFlow soundscape, composed fresh for this session — never a loop. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, study), new mixes daily. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
       <enclosure url="https://questonryan-coder.github.io/auraflow-podcast-feed/ep005-crackling-fireplace.mp3" length="57600813" type="audio/mpeg"/>
       <guid isPermaLink="false">auraflow-ep005-crackling-fireplace</guid>
       <pubDate>Wed, 18 Nov 2026 06:00:00 GMT</pubDate>
@@ -193,7 +196,7 @@ AuraFlow soundscapes are original audio generated with AI/synthesis tools, compo
 
     <item>
       <title>Autumn Rain Sounds for Sleeping — One Hour</title>
-      <description>A rainy autumn street after dark — steady rainfall over lamplit pavement, water trickling from eaves, and the deep wash of the night settling under a long downpour. An original AuraFlow soundscape, composed fresh for this session — never a loop. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, calm), new mixes daily, and downloads. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
+      <description>A rainy autumn street after dark — steady rainfall over lamplit pavement, water trickling from eaves, and the deep wash of the night settling under a long downpour. An original AuraFlow soundscape, composed fresh for this session — never a loop. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, study), new mixes daily. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
       <enclosure url="https://questonryan-coder.github.io/auraflow-podcast-feed/ep004-autumn-rain.mp3" length="57600813" type="audio/mpeg"/>
       <guid isPermaLink="false">auraflow-ep004-autumn-rain</guid>
       <pubDate>Wed, 11 Nov 2026 06:00:00 GMT</pubDate>
@@ -204,7 +207,7 @@ AuraFlow soundscapes are original audio generated with AI/synthesis tools, compo
 
     <item>
       <title>Graveyard Shift Ambience Sounds for Sleeping — One Hour</title>
-      <description>One full hour in a gothic graveyard after dark — wind moving through old stones, distant iron gates creaking, and the hush of the night settling over the grounds. An original AuraFlow soundscape, composed fresh for this session — never a loop. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, calm), new mixes daily, and downloads. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
+      <description>One full hour in a gothic graveyard after dark — wind moving through old stones, distant iron gates creaking, and the hush of the night settling over the grounds. An original AuraFlow soundscape, composed fresh for this session — never a loop. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, study), new mixes daily. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
       <enclosure url="https://questonryan-coder.github.io/auraflow-podcast-feed/ep003-graveyard-shift-ambience.mp3" length="57601088" type="audio/mpeg"/>
       <guid isPermaLink="false">auraflow-ep003-graveyard-shift-ambience</guid>
       <pubDate>Wed, 28 Oct 2026 06:00:00 GMT</pubDate>
@@ -214,7 +217,7 @@ AuraFlow soundscapes are original audio generated with AI/synthesis tools, compo
     </item>
     <item>
       <title>Welcome to AuraFlow — Trailer</title>
-      <description>Welcome to AuraFlow — soundscapes for sleep, focus, and calm, composed fresh for every session, never a loop. New episodes every week: a sleep story on Sundays and a full hour of ambience midweek. Listen free at auraflowfocus.com. AuraFlow Pro — $9/month or $79/year, with a 7-day free trial on the monthly plan. Join the AuraFlow Sleep and Focus Community: https://www.facebook.com/groups/2187306908663017. AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
+      <description>Welcome to AuraFlow — soundscapes for sleep, focus, and study, composed fresh for every session, never a loop. New episodes every week: a sleep story on Sundays and a full hour of ambience midweek. Listen free at auraflowfocus.com. AuraFlow Pro — $9/month or $79/year, with a 7-day free trial on the monthly plan. Join the AuraFlow Sleep and Focus Community: https://www.facebook.com/groups/2187306908663017. AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
       <enclosure url="https://questonryan-coder.github.io/auraflow-podcast-feed/trailer.mp3" length="1558645" type="audio/mpeg"/>
       <guid isPermaLink="false">auraflow-trailer</guid>
       <pubDate>Wed, 28 Oct 2026 08:13:30 GMT</pubDate>
@@ -225,7 +228,7 @@ AuraFlow soundscapes are original audio generated with AI/synthesis tools, compo
     </item>
     <item>
       <title>The Lantern Keeper of Midnight Forest 🌲 A Sleep Story</title>
-      <description>An original AuraFlow sleep story, narrated over the Midnight Forest soundscape. Walk with Elian, keeper of one hundred lanterns, on his nightly round — past the Grove of Paper Moths and the Listening Stream, through the Thirteen Hollows, to the Still Pool where the forest goes to rest. A complete, calming story with a gentle ending — no cliffhanger. Part of the 13 Nights of Haunting. More stories and soundscapes: auraflowfocus.com AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
+      <description>An original AuraFlow sleep story, narrated over the Midnight Forest soundscape. Walk with Elian, keeper of one hundred lanterns, on his nightly round — past the Grove of Paper Moths and the Listening Stream, through the Thirteen Hollows, to the Still Pool where the forest goes to rest. A complete, calming story with a gentle ending — no cliffhanger. Part of the 13 Nights of Haunting. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, study), new mixes daily. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
       <enclosure url="https://questonryan-coder.github.io/auraflow-podcast-feed/ep002-lantern-keeper.mp3" length="17121059" type="audio/mpeg"/>
       <guid isPermaLink="false">auraflow-ep002-lantern-keeper</guid>
       <pubDate>Fri, 23 Oct 2026 06:00:00 GMT</pubDate>
@@ -235,7 +238,7 @@ AuraFlow soundscapes are original audio generated with AI/synthesis tools, compo
     </item>
     <item>
       <title>Midnight Forest 🌲 One Hour of Night Ambience for Deep Sleep</title>
-      <description>One full hour in the Midnight Forest — deep night ambience for sleep. An original AuraFlow soundscape, composed fresh for this session — never a loop. New sessions daily: auraflowfocus.com AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
+      <description>One full hour in the Midnight Forest — deep night ambience for sleep. An original AuraFlow soundscape, composed fresh for this session — never a loop. More stories and soundscapes: auraflowfocus.com 🎧 AuraFlow Pro — $9/month or $79/year: the full library of live-generated soundscapes (sleep, focus, study), new mixes daily. Start your 7-day free trial (monthly plan) at https://auraflowfocus.com 👥 Join the AuraFlow Sleep &amp; Focus Community: https://www.facebook.com/groups/2187306908663017 AuraFlow soundscapes are original audio generated with AI/synthesis tools, composed fresh for each session; narration, where present, is a synthetic voice. No real person is imitated.</description>
       <enclosure url="https://questonryan-coder.github.io/auraflow-podcast-feed/ep001-midnight-forest.mp3" length="57601609" type="audio/mpeg"/>
       <guid isPermaLink="false">auraflow-ep001-midnight-forest</guid>
       <pubDate>Wed, 21 Oct 2026 06:00:00 GMT</pubDate>
